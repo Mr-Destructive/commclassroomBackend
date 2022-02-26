@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/commclassroom/commclassroomBackend#readme",
   "dependencies": {
-    "config": "^3.3.6",
+    "config": "^3.3.7",
     "cors": "^2.8.5",
     "express": "^5.0.0-alpha.8",
     "http-exception-transformer": "^1.2.3",
