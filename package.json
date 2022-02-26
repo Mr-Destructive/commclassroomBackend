@@ -23,7 +23,7 @@
     "express": "^5.0.0-alpha.8",
     "http-exception-transformer": "^1.2.3",
     "mongoose": "^6.0.5",
-    "winston": "^3.3.3"
+    "winston": "^3.5.1"
   },
   "devDependencies": {
     "chai": "^4.3.4",
